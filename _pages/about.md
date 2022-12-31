@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='mailto:%61%72%69%66%6E@%75%67%6D.%61%63.%69%64'><i class='fas fa-envelope fa-2x'></i></a> <a href="https://www.linkedin.com/in/arifnurwidyantoro"><i class="fa fa-linkedin fa-2x"></i></a> <a href="https://scholar.google.co.id/citations?user=LRNOs_AAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a> 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a lecturer at the [Department of Computer Science and Electronics, Faculty of Mathematics and Natural Sciences, Universitas Gadjah Mada](https://dcse.fmipa.ugm.ac.id/site/en/welcome/). My research interests lie primarily in the fields of data mining and software engineering. Currently, I focus on developing automated approaches to support software development.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I completed my Ph.D. in Software Engineering from Monash University, co-advised by [Prof. Jon Whittle](https://scholar.google.com/citations?user=igMJAZwAAAAJ&hl=en), [Prof. Michel Chaudron](https://scholar.google.com/citations?user=Y_0xou4AAAAJ&hl=en) (TU Eindhoven), [Waqar Hussain](https://scholar.google.com/citations?hl=en&user=i4hbSqoAAAAJ), and [Mojtaba Shahin](https://scholar.google.com/citations?hl=en&user=Aml0q7sAAAAJ). During my Ph.D., I investigated and developed a tool to incorporate human values in software development.
