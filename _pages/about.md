@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:%61%72%69%66%6E@%75%67%6D.%61%63.%69%64'><i class='fas fa-envelope fa-2x'></i></a> <a href="https://www.linkedin.com/in/arifnurwidyantoro"><i class="fa fa-linkedin fa-2x"></i></a> <a href="https://scholar.google.co.id/citations?user=LRNOs_AAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a> 
+subtitle: <a href='mailto:%61%72%69%66%6E@%75%67%6D.%61%63.%69%64'><img height="38" src="assets/img/email-square-svgrepo-com.svg" /></a>  <a href="https://scholar.google.co.id/citations?user=LRNOs_AAAAAJ&hl=en"><img height="32" src="assets/img/google-scholar-svgrepo-com.svg" /></i></a>  <a href="https://www.linkedin.com/in/arifnurwidyantoro"><img height="43" src="assets/img/linkedin-svgrepo-com.svg" /></a> 
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi there.
+Hi there :wave:,
 
 I am a lecturer at the [Department of Computer Science and Electronics, Faculty of Mathematics and Natural Sciences, Universitas Gadjah Mada](https://dcse.fmipa.ugm.ac.id/site/en/welcome/). My research interests lie primarily in the fields of data mining and software engineering. Currently, I focus on developing automated approaches to support software development.
 
