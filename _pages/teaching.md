@@ -9,7 +9,11 @@ nav_order: 5
 
 #### Semester II - 2022/2023
 
-Coming soon.
+- Software Engineering Methods (with Dr. Lukman Heryawan)
+- Workshop on Implementation of Software Design (with Dzikri Rahadian Fudholi, M.Comp.)
+- Organization and Architecture of Computer (with Medi, M.Kom.)
+- Research Writing Methods (with Dr. Aina Musdholifah)
+- Data Science (with Dr. Agus Sihabuddin)
 
 #### Semester I - 2022/2023
 
