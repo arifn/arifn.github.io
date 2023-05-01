@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: An up to date list is available at <a href='https://scholar.google.co.id/citations?hl=en&user=LRNOs_AAAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>.
-years: [2022, 2021, 2020, 2019]
+years: [2023, 2022, 2021, 2020, 2019]
 nav: true
 nav_order: 1
 ---
