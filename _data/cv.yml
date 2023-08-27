@@ -15,15 +15,15 @@
     - title: Doctor of Philosophy in Software Engineering (Ph.D.)
       institution: Monash University, Melbourne, Australia
       year: 2022
-      description:                
+      description: Supervised by Prof. Jon Whittle, Prof. Michel Chaudron, Dr. Mojtaba Shahin, and Dr. Waqar Hussain               
     - title: Master in Computer Science (M.Cs.)
       institution: Universitas Gadjah Mada, Yogyakarta, Indonesia
       year: 2011
-      description:
+      description: Supervised by Edi Winarko, Ph.D.
     - title: Bachelor in Computer Science (S.Kom.)
       institution: Institut Pertanian Bogor, Bogor, Indonesia
       year: 2009
-      description:
+      description: Supervised by Dr. Hari Agung Adrianto and Dr. Wisnu Ananta Kusuma
 
 - title: Experience
   type: time_table
