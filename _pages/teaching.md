@@ -7,6 +7,15 @@ nav: true
 nav_order: 5
 ---
 
+#### Semester I - 2023/2024
+
+- Research Trends in Data and Software Engineering (with Edi Winarko, Ph.D.)
+- Software Development (with Dr. Lukman Heryawan and Prof. Agus Harjoko)
+- Operating Systems (with Moh Edi Wibowo, Ph.D.)
+- Database (with Edi Winarko, Ph.D.)
+- Lab Work on Computer Systems and Networks (with M. Alfian Amrizal, Ph.D.)
+- Programming
+
 #### Semester II - 2022/2023
 
 - Software Engineering Methods (with Dr. Lukman Heryawan)
@@ -22,4 +31,4 @@ nav_order: 5
 - **MII212603** - Lab Work on Computer Systems and Networks (with M. Alfian Amrizal, Ph.D.)
 - **MII213501** - Software Engineering Project (with Dr. Lukman Heryawan)
 - **MII213503** - Information Retrieval (with Dr. Lukman Heryawan)
-- **MII213510** - Research Trend on Data and Software Engineering (with Edi Winarko, Ph.D)
+- **MII213510** - Research Trends in Data and Software Engineering (with Edi Winarko, Ph.D.)
