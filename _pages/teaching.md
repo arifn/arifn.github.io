@@ -7,6 +7,14 @@ nav: true
 nav_order: 5
 ---
 
+#### Semester II - 2023/2024
+
+- Software Engineering Methods
+- Software Engineering
+- IT Project Management (with Dr. Azhari SN)
+- Data Science (with Dr. Sigit Priyanta)
+- AI Research Methods (with Afiahayati, Ph.D.)
+
 #### Semester I - 2023/2024
 
 - Research Trends in Data and Software Engineering (with Edi Winarko, Ph.D.)
