@@ -7,6 +7,19 @@ nav: true
 nav_order: 5
 ---
 
+#### Semester I - 2024/2025
+
+- Data Science
+- Software Engineering
+- Data Science and Analytics
+- AI Research Methods
+- Programming
+- Advanced Information Retrieval
+- Operating Systems
+- Research Trends in Data and Software Engineering
+- Introduction to Software Quality Assurance
+- Data Mining and Knowledge Management
+
 #### Semester II - 2023/2024
 
 - Software Engineering Methods
