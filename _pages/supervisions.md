@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /supervisions/
+title: supervisions
 description: 
 nav: true
 nav_order: 7
