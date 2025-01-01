@@ -1,40 +1,32 @@
 ---
 layout: page
 permalink: /supervisions/
-title: supervisions
+title: Supervisions
 description: 
 nav: true
 nav_order: 7
 ---
 
-# Ongoing Supervision
-
-## Doctoral
-
-### Ongoing
+#### Doctoral (ongoing)
 
 1. Jasson Prestiliano, Violence and Profanity Detection in Child-Friendly Online Game (Promotor: Prof. Azhari SN)
 2. I Gede Mujiyatna, Code Completion in Mobile IDE (Promotor: Dr. Nur Rokhman)
 3. Said Abdurrohman Kunta Mardlian, Cybersecurity Assessment Framework (Promotor: Dr. Madhani Riasetiawan)
 4. Rizaldy Khair, Modification of Software Development Methodology (Promotor: Prof. Suprapto (main) and Dr. Agfianto Eko Putro)
 
-## Master
+#### Master (ongoing)
 
-### Ongoing
+1. Yusuf Syaifudin, Retrieval Augmented Generation for Islamic Literatures Q&A
+2. Naafi Rofiqoh, Credit Card Fraud Detection
 
-1. Yusuf Syaifudin
-2. Naafi Rofiqoh
-
-### Finished
+### Master (graduated)
 
 1. Arridho Ramadhan Firdaus, Sentiment Analysis of Product Reviews using Data Augmentation and Imbalance Handling 2023
 
-## Bachelor
-
-### Ongoing
+#### Bachelor (ongoing)
 1. Elsa Ramadhani, Sinopsis-based Movies Genre Classification
 
-### Finished
+#### Bachelor (graduated)
 
 1. Yovita Zahra Khoerinisa, 2023
 1. Ahmad Fauzan, 2023
