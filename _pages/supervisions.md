@@ -22,7 +22,7 @@ nav_order: 7
 
 #### Master (graduated)
 
-1. Arridho Ramadhan Firdaus, Sentiment Analysis of Product Reviews using Data Augmentation and Imbalance Handling 2023
+1. Arridho Ramadhan Firdaus, Sentiment Analysis of Product Reviews using Data Augmentation and Imbalance Handling, 2023
 
 #### Bachelor (ongoing)
 1. Elsa Ramadhani, Sinopsis-based Movies Genre Classification
