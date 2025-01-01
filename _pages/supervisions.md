@@ -18,8 +18,9 @@ nav_order: 7
 
 1. Yusuf Syaifudin, Retrieval Augmented Generation for Islamic Literatures Q&A
 2. Naafi Rofiqoh, Credit Card Fraud Detection
+3. Dimas Firmansyah, Software Testing
 
-### Master (graduated)
+#### Master (graduated)
 
 1. Arridho Ramadhan Firdaus, Sentiment Analysis of Product Reviews using Data Augmentation and Imbalance Handling 2023
 
@@ -28,11 +29,11 @@ nav_order: 7
 
 #### Bachelor (graduated)
 
-1. Yovita Zahra Khoerinisa, 2023
-1. Ahmad Fauzan, 2023
-1. Algamma Paramayudha, 2023
-1. Bonifacius Charis, 2023
-1. Satria Satyahestatma, 2023
+1. Yovita Zahra Khoerinisa, Clickbait Detection using Data Augmentation and DistilBERT, 2023
+2. Ahmad Fauzan, Easy Data Augmentation (EDA) for Human Values Classification on GitHub's Issue Discussions, 2023
+1. Algamma Paramayudha, Easy Data Augmentation (EDA) for Emotion Classification of Twitter Dataset, 2023
+1. Bonifacius Charis, Dempster-Shafer Theory for Space Objects Classification, 2023
+1. Satria Satyahestatma, Sentiment Analysis for Stack Overflow Dataset using Attention Bidirectional LSTM, 2023
 1. Ghani Faradha, Development of Data Warehouse for Twitter using Apache Hive, 2018
 2. Aziz Mustika Aji, Location Extraction from News, 2018
 3. Andimas Bagaswara, Analysis of Clustering for Java Source Code Comprehension, 2018
