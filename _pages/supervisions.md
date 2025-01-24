@@ -18,7 +18,8 @@ nav_order: 7
 
 1. Yusuf Syaifudin, Retrieval Augmented Generation for Islamic Literatures Q&A
 2. Naafi Rofiqoh, Credit Card Fraud Detection
-3. Dimas Firmansyah, Software Testing
+3. Marina Indah Prasasti, Stunting Identification using Deep Learning (Main Supervisor: Dr. Edi Winarko)
+4. Fathin Difa, GAN untuk Koreksi Wajah Samping dan Peningkatan Pengenalan Wajah Non-Frontal (Main Supervisor: Dr. Moh Edi Wibowo)
 
 #### Master (graduated)
 
