@@ -9,10 +9,10 @@ nav_order: 7
 
 #### Doctoral (ongoing)
 
-1. Jasson Prestiliano, Violence and Profanity Detection in Child-Friendly Online Game (Promotor: Prof. Azhari SN)
-2. I Gede Mujiyatna, Code Completion in Mobile IDE (Promotor: Dr. Nur Rokhman)
-3. Said Abdurrohman Kunta Mardlian, Cybersecurity Assessment Framework (Promotor: Dr. Madhani Riasetiawan)
-4. Rizaldy Khair, Modification of Software Development Methodology (Promotors: Prof. Suprapto (main) and Dr. Agfianto Eko Putro (co))
+1. Jasson Prestiliano, Violence and Profanity Detection in Child-Friendly Online Game (Main Promotor: Prof. Azhari SN)
+2. I Gede Mujiyatna, Code Completion in Mobile IDE (Main Promotor: Dr. Nur Rokhman)
+3. Said Abdurrohman Kunta Mardlian, Cybersecurity Assessment Framework (Main Promotor: Dr. Madhani Riasetiawan)
+4. Rizaldy Khair, Modification of Software Development Methodology (Main Promotor: Prof. Suprapto (main), Co: Dr. Agfianto Eko Putro)
 
 #### Master (ongoing)
 
