@@ -28,10 +28,12 @@ nav_order: 7
 1. Arridho Ramadhan Firdaus, Sentiment Analysis of Product Reviews using Data Augmentation and Imbalance Handling, 2024
 
 #### Bachelor (ongoing)
+
+4. Josiah Farrel Suwito
 1. David Lois
 2. Andreas Notokusumo
 3. Albert Christiano Halim
-4. Josiah Farrel Suwito
+5. Justin Nashwan Limansubroto
 
 #### Bachelor (graduated)
 
