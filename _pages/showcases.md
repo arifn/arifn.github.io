@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /showcases/
-title: showcases
+title: Showcases
 description: 
 nav: true
 nav_order: 6
@@ -13,7 +13,7 @@ Read Eazy, referred to as Reazy, is an Android application designed to provide e
 
 **Team Members**: Dzikri Rahadian Fudholi, Arif Nurwidyantoro, Muhammad Oriza Nurfajri (UGM), Colin McClure (QUB)
 
-**Current Status**: The application is publicly available through the Google Play Store and can be accessed at: https://play.google.com/store/apps/details?id=org.readeazy.ugmqub
+**Current Status**: The application is publicly available through the [Google Play Store](https://play.google.com/store/apps/details?id=org.readeazy.ugmqub)
 
 #### IndoClimate
 
@@ -21,7 +21,7 @@ IndoClimate represents a conversational AI system designed to facilitate the dis
 
 **Team Members**: Arif Nurwidyantoro, Yunita Sari, Muhammad Oriza Nurfajri, Faturahman Yudanto (UGM), Xiao Liu, Oscar Wu (Deakin)
 
-**Current Status**: The system is operational and accessible at: https://counterinfodemic.org/tool/indo-chatbot
+**Current Status**: The system is operational and accessible at the [Counter Infodemic website] (https://counterinfodemic.org/tool/indo-chatbot)
 
 #### Human Values Dashboard
 
