@@ -9,7 +9,7 @@ nav_order: 6
 
 #### Read Eazy (Reazy)
 
-Read Eazy, referred to as Reazy, is an Android application designed to provide educational support for students with dyslexia. The application was developed under the auspices of the Going Global Diversity and Inclusion Partnership project, funded by the British Council in 2024. This collaborative initiative was undertaken in partnership with Queen's University Belfast, Northern Ireland, reflecting a commitment to inclusive educational technology solutions.
+Read Eazy, referred to as Reazy, is an Android application designed to provide educational support for students with dyslexia. The application was developed under the Going Global Diversity and Inclusion Partnership project, funded by the British Council in 2024. This collaborative initiative was undertaken in partnership with Queen's University Belfast, Northern Ireland, reflecting a commitment to inclusive educational technology solutions.
 
 **Team Members**: Dzikri Rahadian Fudholi, Arif Nurwidyantoro, Muhammad Oriza Nurfajri (UGM), Colin McClure (QUB)
 
