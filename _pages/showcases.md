@@ -21,7 +21,7 @@ IndoClimate represents a conversational AI system designed to facilitate the dis
 
 **Team Members**: Arif Nurwidyantoro, Yunita Sari, Muhammad Oriza Nurfajri, Faturahman Yudanto (UGM), Xiao Liu, Oscar Wu (Deakin)
 
-**Current Status**: The system is operational and accessible at the [Counter Infodemic website] (https://counterinfodemic.org/tool/indo-chatbot)
+**Current Status**: The system is operational and accessible at the [Counter Infodemic website](https://counterinfodemic.org/tool/indo-chatbot)
 
 #### Human Values Dashboard
 
