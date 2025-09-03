@@ -9,12 +9,17 @@ nav_order: 7
 
 #### Doctoral (ongoing)
 
-1. Jasson Prestiliano, Violence and Profanity Detection in Child-Friendly Online Game (Main Promotor: Prof. Azhari SN)
-2. I Gede Mujiyatna, Code Completion in Mobile IDE (Main Promotor: Dr. Nur Rokhman)
-3. Said Abdurrohman Kunta Mardlian, Cybersecurity Assessment Framework (Main Promotor: Dr. Mardhani Riasetiawan)
-4. Rizaldy Khair, Modification of Software Development Methodology (Main Promotor: Prof. Suprapto (main), Co: Dr. Agfianto Eko Putro)
-5. Rokhmatul Insani, Datawarehouse Design for Students' Job Recommendation (Main Promotor: Dr. Mardhani Riasetiawan)
-6. Hayuning Titi Karsanti, Human Oversight in Responsible AI Implementation (Main Promotor: Prof. Mhd. Reza Pulungan)
+1. I Gede Mujiyatna, Code Completion in Mobile IDE (Main Promotor: Dr. Nur Rokhman)
+2. Said Abdurrohman Kunta Mardlian, Cybersecurity Assessment Framework (Main Promotor: Dr. Mardhani Riasetiawan)
+3. Rizaldy Khair, Modification of Software Development Methodology (Main Promotor: Prof. Suprapto (main), Co: Dr. Agfianto Eko Putro)
+4. Rokhmatul Insani, Datawarehouse Design for Students' Job Recommendation (Main Promotor: Dr. Mardhani Riasetiawan)
+5. Hayuning Titi Karsanti, Human Oversight in Responsible AI Implementation (Main Promotor: Prof. Mhd. Reza Pulungan)
+6. Ali Qureshi (Main Promotor: Prof. Suprapto)
+7. I Gede Bintang Arya Budaya (Main Promotor: Dr. Lukman Heryawan)
+
+#### Doctoral (graduated)
+
+1. Jasson Prestiliano, Violence and Profanity Detection in Child-Friendly Online Game (Main Promotor: Prof. Azhari SN), 2025
 
 #### Master (ongoing)
 
@@ -29,16 +34,16 @@ nav_order: 7
 
 #### Bachelor (ongoing)
 
-4. Josiah Farrel Suwito
-1. David Lois
-2. Andreas Notokusumo
-3. Albert Christiano Halim
-5. Justin Nashwan Limansubroto
+1. David Lois, Development of a Fuzzing System for REST API Quality Testing Using Multi‑Agent Reinforcement Learning and a Semantic Operation Dependency Graph
+2. Andreas Notokusumo, Implementation and Analysis of an End-to-End Good First Issue Recommender System Based on the PFIRec Model in the Github Open-Source Repository Environment
+3. Albert Christiano Halim, Feature-Based Eye Tracking for Handheld Devices using Mobile-Optimized Convolutional Neural Network
+4. Justin Nashwan Limansubroto, A Deep Learning-Based Malware Classifier using Attention-Driven CNN-LSTM Architecture
 
 #### Bachelor (graduated)
 
-1. Elsa Ramadhani, Sinopsis-based Movies Genre Classification, 2025
-1. Yovita Zahra Khoerinisa, Clickbait Detection using Data Augmentation and DistilBERT, 2024
+1. Josiah Farrel Suwito, Lucas-Kanade Optical Flow Tracking Method for Optimizing Strike Gesture Detection in Computer Vision-Based Air Drumming System, 2025
+2. Elsa Ramadhani, Sinopsis-based Movies Genre Classification, 2025
+3. Yovita Zahra Khoerinisa, Clickbait Detection using Data Augmentation and DistilBERT, 2024
 2. Ahmad Fauzan, Easy Data Augmentation (EDA) for Human Values Classification on GitHub's Issue Discussions, 2024
 1. Algamma Paramayudha, Easy Data Augmentation (EDA) for Emotion Classification of Twitter Dataset, 2024
 1. Bonifacius Charis, Dempster-Shafer Theory for Space Objects Classification, 2024
