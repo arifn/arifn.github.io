@@ -27,6 +27,7 @@ nav_order: 7
 2. Naafi Rofiqoh, Credit Card Fraud Detection
 3. Fathin Difa, Face Recognition using GAN (Main Supervisor: Dr. Moh Edi Wibowo)
 4. Maulana Ihsan Ahmad, Addressing Imbalanced data for Arabic Dialect Classification (Co-supervisor: Dr. Aina Musdholifah)
+5. Ronald Hadiwinata, Bitcoin Price Prediction using ARIMAX and XLSTM-based Hybrid Model (Main Supervisor: Dr. Wahyono)
 
 #### Master (graduated)
 
