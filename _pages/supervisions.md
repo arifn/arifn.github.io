@@ -25,12 +25,13 @@ nav_order: 7
 
 1. Yusuf Syaifudin, Retrieval Augmented Generation for Islamic Literatures Q&A
 2. Naafi Rofiqoh, Credit Card Fraud Detection
-3. Marina Indah Prasasti, Stunting Identification using Deep Learning (Main Supervisor: Dr. Edi Winarko)
-4. Fathin Difa, Face Recognition using GAN (Main Supervisor: Dr. Moh Edi Wibowo)
+3. Fathin Difa, Face Recognition using GAN (Main Supervisor: Dr. Moh Edi Wibowo)
+4. Maulana Ihsan Ahmad, Addressing Imbalanced data for Arabic Dialect Classification (Co-supervisor: Dr. Aina Musdholifah)
 
 #### Master (graduated)
 
 1. Arridho Ramadhan Firdaus, Sentiment Analysis of Product Reviews using Data Augmentation and Imbalance Handling, 2024
+2. Marina Indah Prasasti, Stunting Identification using Deep Learning (Main Supervisor: Dr. Edi Winarko), 2025
 
 #### Bachelor (ongoing)
 
