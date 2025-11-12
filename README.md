@@ -169,7 +169,7 @@ For a hands-on walkthrough of al-folio installation, check out [this cool video 
 
 #### Local setup using Docker (Recommended on Windows)
 
-You need to take the following steps to get `al-folio` up and running in your local machine:
+You need to take the following steps to get `arifn.github.io` up and running in your local machine:
 
 - First, install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/).
 - Then, clone this repository to your machine:
@@ -179,17 +179,35 @@ $ git clone git@github.com:<your-username>/<your-repo-name>.git
 $ cd <your-repo-name>
 ```
 
-Finally, run the following command that will pull a pre-built image from DockerHub and will run your website.
+Finally, run the following command that will build and run your website in a Docker container named "arifn.github.io":
 
 ```bash
-$ docker-compose up
+$ ./start-docker.sh
 ```
 
-Note that when you run it for the first time, it will download a docker image of size 300MB or so.
+Or alternatively, you can run:
 
-Now, feel free to customize the theme however you like (don't forget to change the name!). After you are done, you can use the same command (`docker-compose up`) to render the webpage with all you changes. Also, make sure to commit your final changes.
+```bash
+$ docker-compose up --build
+```
 
-> To change port number, you can edit `docker-compose.yml` file.
+Note that when you run it for the first time, it will build a docker image with all necessary dependencies.
+
+Now, feel free to customize the theme however you like. After you are done, you can use the same command to render the webpage with all your changes. Also, make sure to commit your final changes.
+
+The website will be available at http://localhost:4000
+
+To stop the container, you can run:
+
+```bash
+$ ./stop-docker.sh
+```
+
+Or:
+
+```bash
+$ docker-compose down
+```
 
 <details><summary>(click to expand) <strong>Build your own docker image:</strong></summary>
 

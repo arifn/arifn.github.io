@@ -23,16 +23,25 @@ nav_order: 7
 
 #### Master (ongoing)
 
-1. Yusuf Syaifudin, Retrieval Augmented Generation for Islamic Literatures Q&A
-2. Naafi Rofiqoh, Credit Card Fraud Detection
-3. Fathin Difa, Face Recognition using GAN (Main Supervisor: Dr. Moh Edi Wibowo)
-4. Maulana Ihsan Ahmad, Addressing Imbalanced data for Arabic Dialect Classification (Co-supervisor: Dr. Aina Musdholifah)
-5. Ronald Hadiwinata, Bitcoin Price Prediction using ARIMAX and XLSTM-based Hybrid Model (Main Supervisor: Dr. Wahyono)
+1. Yusuf Syaifudin (MCS), Retrieval Augmented Generation for Islamic Literatures Q&A
+2. Naafi Rofiqoh (MCS), Credit Card Fraud Detection
+3. Fathin Difa (MAI), Face Recognition using GAN (Main Supervisor: Dr. Moh Edi Wibowo)
+4. Maulana Ihsan Ahmad (MCS), Addressing Imbalanced data for Arabic Dialect Classification (Co-supervisor: Dr. Aina Musdholifah)
+5. Ronald Hadiwinata (MAI), Bitcoin Price Prediction using ARIMAX and XLSTM-based Hybrid Model (Main Supervisor: Dr. Wahyono)
+6. Muhammad Rafli Indrawan (MAI), Acne Detection
+7. Salmania Jesamine Putri (MAI), Text Summarization
+8. Ach. Nur Aqil Wahid (MAI)
+9. I Putu Yosua Yeriko (MKOM)
+10. Sampurno Aji (MKOM)
+11. Wiladahtul Awaliah (MKOM)
+12. Bruri Wijayanto (MAI)
+13. Mohd Azima (MAI - Co-supervisor: Dr.techn. Guntur Budi Herwanto)
+
 
 #### Master (graduated)
 
-1. Arridho Ramadhan Firdaus, Sentiment Analysis of Product Reviews using Data Augmentation and Imbalance Handling, 2024
-2. Marina Indah Prasasti, Stunting Identification using Deep Learning (Main Supervisor: Dr. Edi Winarko), 2025
+1. Arridho Ramadhan Firdaus (MKOM), Sentiment Analysis of Product Reviews using Data Augmentation and Imbalance Handling, 2024
+2. Marina Indah Prasasti (MKOM), Stunting Identification using Deep Learning (Main Supervisor: Dr. Edi Winarko), 2025
 
 #### Bachelor (ongoing)
 
