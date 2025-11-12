@@ -49,6 +49,9 @@ nav_order: 7
 2. Andreas Notokusumo, Implementation and Analysis of an End-to-End Good First Issue Recommender System Based on the PFIRec Model in the Github Open-Source Repository Environment
 3. Albert Christiano Halim, Feature-Based Eye Tracking for Handheld Devices using Mobile-Optimized Convolutional Neural Network
 4. Justin Nashwan Limansubroto, A Deep Learning-Based Malware Classifier using Attention-Driven CNN-LSTM Architecture
+5. Maulana Arya, Synthetic Code Detection
+6. Felicia Eureka Bunaren
+7. Fada Lauza
 
 #### Bachelor (graduated)
 
