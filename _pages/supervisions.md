@@ -25,25 +25,25 @@ nav_order: 7
 
 1. Yusuf Syaifudin (MCS), Retrieval Augmented Generation for Islamic Literatures Q&A
 2. Naafi Rofiqoh (MCS), Credit Card Fraud Detection
-3. Fathin Difa (MAI), Face Recognition using GAN (Main Supervisor: Dr. Moh Edi Wibowo)
-4. Maulana Ihsan Ahmad (MCS), Addressing Imbalanced data for Arabic Dialect Classification (Co-supervisor: Dr. Aina Musdholifah)
-5. Ronald Hadiwinata (MAI), Bitcoin Price Prediction using ARIMAX and XLSTM-based Hybrid Model (Main Supervisor: Dr. Wahyono)
-6. Muhammad Rafli Indrawan (MAI), Acne Detection
-7. Salmania Jesamine Putri (MAI), Text Summarization
-8. Ach. Nur Aqil Wahid (MAI)
-9. I Putu Yosua Yeriko (MKOM)
-10. Sampurno Aji (MKOM)
-11. Wiladahtul Awaliah (MKOM)
-12. Bruri Wijayanto (MAI)
-13. Mohd Azima (MAI - Co-supervisor: Dr.techn. Guntur Budi Herwanto)
+3. Maulana Ihsan Ahmad (MCS), Addressing Imbalanced data for Arabic Dialect Classification (Co-supervisor: Dr. Aina Musdholifah)
+4. Ronald Hadiwinata (MAI), Bitcoin Price Prediction using ARIMAX and XLSTM-based Hybrid Model (Main Supervisor: Dr. Wahyono)
+5. Muhammad Rafli Indrawan (MAI), Acne Detection
+6. Salmania Jesamine Putri (MAI), Text Summarization
+7. Ach. Nur Aqil Wahid (MAI)
+8. I Putu Yosua Yeriko (MKOM)
+9. Sampurno Aji (MKOM)
+10. Wiladahtul Awaliah (MKOM)
+11. Bruri Wijayanto (MAI)
+12. Mohd Azima (MAI - Co-supervisor: Dr.techn. Guntur Budi Herwanto)
 
 
 #### Master (graduated)
 
 1. Arridho Ramadhan Firdaus (MKOM), Sentiment Analysis of Product Reviews using Data Augmentation and Imbalance Handling, 2024
 2. Marina Indah Prasasti (MKOM), Stunting Identification using Deep Learning (Main Supervisor: Dr. Edi Winarko), 2025
+3. Fathin Difa (MAI), TP-GAN for Face Frontalization via Adaptive Meta-Learner-Based Knowledge Distillation (Main Supervisor: Dr. Moh Edi Wibowo), 2025
 
-#### Bachelor (ongoing)
+#### Undergraduate (ongoing)
 
 1. David Lois, Development of a Fuzzing System for REST API Quality Testing Using Multi‑Agent Reinforcement Learning and a Semantic Operation Dependency Graph
 2. Andreas Notokusumo, Implementation and Analysis of an End-to-End Good First Issue Recommender System Based on the PFIRec Model in the Github Open-Source Repository Environment
@@ -52,8 +52,9 @@ nav_order: 7
 5. Maulana Arya, Synthetic Code Detection
 6. Felicia Eureka Bunaren
 7. Fada Lauza
+8. Azhar Bagaskara, Code Smell Detection
 
-#### Bachelor (graduated)
+#### Undergraduate (graduated)
 
 1. Josiah Farrel Suwito, Lucas-Kanade Optical Flow Tracking Method for Optimizing Strike Gesture Detection in Computer Vision-Based Air Drumming System, 2025
 2. Elsa Ramadhani, Sinopsis-based Movies Genre Classification, 2025
