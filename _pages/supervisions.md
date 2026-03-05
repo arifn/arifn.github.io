@@ -16,6 +16,7 @@ nav_order: 7
 5. Hayuning Titi Karsanti, Human Oversight in Responsible AI Implementation (Main Promotor: Prof. Mhd. Reza Pulungan)
 6. Ali Qureshi (Main Promotor: Prof. Suprapto)
 7. I Gede Bintang Arya Budaya (Main Promotor: Prof. Agus Harjoko)
+8. Eko Suripto Pasinggi (Main Promotor: Dr. Moh Edi Wibowo)
 
 #### Doctoral (graduated)
 
@@ -24,24 +25,25 @@ nav_order: 7
 #### Master (ongoing)
 
 1. Yusuf Syaifudin (MCS), Retrieval Augmented Generation for Islamic Literatures Q&A
-2. Naafi Rofiqoh (MCS), Credit Card Fraud Detection
-3. Maulana Ihsan Ahmad (MCS), Addressing Imbalanced data for Arabic Dialect Classification (Co-supervisor: Dr. Aina Musdholifah)
-4. Ronald Hadiwinata (MAI), Bitcoin Price Prediction using ARIMAX and XLSTM-based Hybrid Model (Main Supervisor: Dr. Wahyono)
-5. Salmania Jesamine Putri (MAI), Text Summarization
-6. Ach. Nur Aqil Wahid (MAI)
-7. I Putu Yosua Yeriko (MCS)
-8. Sampurno Aji (MCS)
-9. Wiladahtul Awaliah (MCS)
-10. Bruri Wijayanto (MAI)
-11. Mohd Azima (MAI - Co-supervisor: Dr.techn. Guntur Budi Herwanto)
+2. Maulana Ihsan Ahmad (MCS), Addressing Imbalanced data for Arabic Dialect Classification (Co-supervisor: Dr. Aina Musdholifah)
+3. Ronald Hadiwinata (MAI), Bitcoin Price Prediction using ARIMAX and XLSTM-based Hybrid Model (Main Supervisor: Dr. Wahyono)
+4. Salmania Jesamine Putri (MAI), Text Summarization
+5. Ach. Nur Aqil Wahid (MAI)
+6. I Putu Yosua Yeriko (MCS)
+7. Sampurno Aji (MCS)
+8. Wiladahtul Awaliah (MCS)
+9. Bruri Wijayanto (MAI)
+10. Mohd Azima (MAI - Co-supervisor: Dr.techn. Guntur Budi Herwanto)
+11. Mozes Markus Sapari (MCS), Code-mixing Retrieval Augmented Generation (Co-supervisor: Dr.techn. Guntur Budi Herwanto)
 
 
 #### Master (graduated)
 
 1. Muhammad Rafli Indrawan (MAI), Progressive Growing GAN–Based Data Augmentation for Label Distribution Smoothing Models in Acne Image Classification, 2026
-2. Fathin Difa (MAI), TP-GAN for Face Frontalization via Adaptive Meta-Learner-Based Knowledge Distillation (Main Supervisor: Dr. Moh Edi Wibowo), 2025
-3. Marina Indah Prasasti (MCS), Stunting Identification using Deep Learning (Main Supervisor: Dr. Edi Winarko), 2025
-4. Arridho Ramadhan Firdaus (MCS), Sentiment Analysis of Product Reviews using Data Augmentation and Imbalance Handling, 2024
+2. Naafi Rofiqoh (MCS), Credit Card Fraud Detection, 2026
+3. Fathin Difa (MAI), TP-GAN for Face Frontalization via Adaptive Meta-Learner-Based Knowledge Distillation (Main Supervisor: Dr. Moh Edi Wibowo), 2025
+4. Marina Indah Prasasti (MCS), Stunting Identification using Deep Learning (Main Supervisor: Dr. Edi Winarko), 2025
+5. Arridho Ramadhan Firdaus (MCS), Sentiment Analysis of Product Reviews using Data Augmentation and Imbalance Handling, 2024
 
 
 #### Undergraduate (ongoing)
