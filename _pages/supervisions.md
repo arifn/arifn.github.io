@@ -50,9 +50,14 @@ nav_order: 7
 
 1. Justin Nashwan Limansubroto, A Deep Learning-Based Malware Classifier using Attention-Driven CNN-LSTM Architecture
 2. Maulana Arya, Synthetic Code Detection
-3. Felicia Eureka Bunaren
-4. Fada Lauza
+3. Felicia Eureka Bunaren, E-commerce Product Description Summarization
+4. Fada Lauza, Performance Comparison of Javascript Runtime
 5. Azhar Bagaskara, Code Smell Detection
+6. Raditya Maheswara
+7. Muhammad Hanif Zuhair
+8. Rama Andhika Pratama
+9. Rayhan Firdaus Ardian
+10. Fahmi Shampoerna
 
 #### Undergraduate (graduated)
 
