@@ -52,45 +52,45 @@ nav_order: 7
 
 1. Felicia Eureka Bunaren, E-commerce Product Description Summarization
 2. Fada Lauza, Performance Comparison of Javascript Runtime
-3. Azhar Bagaskara, Code Smell Detection
-4. Raditya Maheswara
-5. Muhammad Hanif Zuhair
-6. Rama Andhika Pratama
-7. Rayhan Firdaus Ardian
-8. Fahmi Shampoerna
+3. Raditya Maheswara
+4. Muhammad Hanif Zuhair
+5. Rama Andhika Pratama
+6. Rayhan Firdaus Ardian
+7. Fahmi Shampoerna
 
 #### Undergraduate (graduated)
 
-1. Maulana Arya Alambana, Large Language Model-Generated Synthetic Code Detection via Rewriting-Based Comparative Analysis, 2026
-2. Justin Nashwan Limansubroto, A Deep Learning-Based Malware Classifier using Attention-Driven CNN-LSTM Architecture, 2026
-3. David Lois, Development of a Fuzzing System for REST API Quality Testing Using Multi‑Agent Reinforcement Learning and a Semantic Operation Dependency Graph, 2026
-4. Andreas Notokusumo, Implementation and Analysis of an End-to-End Good First Issue Recommender System Based on the PFIRec Model in the Github Open-Source Repository Environment, 2026
-5. Albert Christiano Halim, Feature-Based Eye Tracking for Handheld Devices using Mobile-Optimized Convolutional Neural Network, 2026
-6. Josiah Farrel Suwito, Lucas-Kanade Optical Flow Tracking Method for Optimizing Strike Gesture Detection in Computer Vision-Based Air Drumming System, 2025
-7. Elsa Ramadhani, Sinopsis-based Movies Genre Classification, 2025
-8. Yovita Zahra Khoerinisa, Clickbait Detection using Data Augmentation and DistilBERT, 2024
-9. Ahmad Fauzan, Easy Data Augmentation (EDA) for Human Values Classification on GitHub's Issue Discussions, 2024
-10. Algamma Paramayudha, Easy Data Augmentation (EDA) for Emotion Classification of Twitter Dataset, 2024
-11. Bonifacius Charis, Dempster-Shafer Theory for Space Objects Classification, 2024
-12. Satria Satyahestatma, Sentiment Analysis for Stack Overflow Dataset using Attention Bidirectional LSTM, 2024
-13. Ghani Faradha, Development of Data Warehouse for Twitter using Apache Hive, 2018
-14. Aziz Mustika Aji, Location Extraction from News, 2018
-15. Andimas Bagaswara, Analysis of Clustering for Java Source Code Comprehension, 2018
-16. Muhammad Naufal Abiyyu, Web Usage Mining for User Profiling in Job Portal Website, 2018
-17. Rubila Dwi Adawiyah, Analysis of Fuzzy C-Means Clustering and Proximity-Impact-Popularity on User-based Collaborative Filtering. 2018
-18. Kurniawan D. Septian, Comparison of MPI and Hadoop MapReduce in Raspberry Pi Cluster, 2018
-19. Gilang Mugiardi, Comparison of Feature Selection Methods in Naive Bayes Topic Classification of Indonesian News, 2017
-20. Lucgu Qolfiera Muhammad, Nude Image Detection using Rough Set Analysis Method, 2017
-21. Muhammad Qadri, Sentiment Classifications in Instagram’s Comments, 2017
-22. I Nyoman Prayana Trisna, Keyword Extraction in Single Document using Phrase Chunking, 2017
-23. Yuliawan Rizka Syafaat, Classification of Spam Comments and Spammer Analysis on Instagram, 2017
-24. Satrio Ghaffar, Location-Based Game with ORB Feature Detection, 2016
-25. Muhammad Hafidz Anshari, Popularity Tweet Analysis in Bahasa Indonesia using Exponential Comparison Method, 2016
-26. Muhammad Rafif Murazza, Relational and NoSQL Database Comparison for Near Real-time Twitter Data Warehouse, 2016
-27. Sabrina Woro Anggraini, Analysis of Diabetes Mellitus Type 2 Classification based on Ensemble Learning Weighted Voting, 2016
-28. Zamahsyari, Sentiment Analysis of Economic News in Bahasa Indonesia using Majority Vote Classifier, 2016
-29. Dimas Ananta, Sentiment Analysis of Entities in Twitter Indonesian Language using Support Vector Machine, 2016
-30. Muh. Reza Pahlevi, Pattern Analysis Sale of Goods using Apriori Algorithm on the Data Warehouse (Case Study: Kopegtel Purwokerto), 2016
-31. Yusuf Syaifuddin, Quotations Identification from Indonesian Online News using Rule-based Method, 2016
-32. Khafid Aulia Rahman, Correlation Analysis on the Data Warehouse Academic Domain at Universitas Gadjah Mada, 2015
-33. Fajri Wiryawan, Incremental Learning for Opinion Mining on Indonesian Language Tweets using Twitter Data Stream, 2014, (Co-Supervisor: Dr. Edi Winarko)
+1. Azhar Bagaskara, Code Smell Detection, 2026
+2. Maulana Arya Alambana, Large Language Model-Generated Synthetic Code Detection via Rewriting-Based Comparative Analysis, 2026
+3. Justin Nashwan Limansubroto, A Deep Learning-Based Malware Classifier using Attention-Driven CNN-LSTM Architecture, 2026
+4. David Lois, Development of a Fuzzing System for REST API Quality Testing Using Multi‑Agent Reinforcement Learning and a Semantic Operation Dependency Graph, 2026
+5. Andreas Notokusumo, Implementation and Analysis of an End-to-End Good First Issue Recommender System Based on the PFIRec Model in the Github Open-Source Repository Environment, 2026
+6. Albert Christiano Halim, Feature-Based Eye Tracking for Handheld Devices using Mobile-Optimized Convolutional Neural Network, 2026
+7. Josiah Farrel Suwito, Lucas-Kanade Optical Flow Tracking Method for Optimizing Strike Gesture Detection in Computer Vision-Based Air Drumming System, 2025
+8. Elsa Ramadhani, Sinopsis-based Movies Genre Classification, 2025
+9. Yovita Zahra Khoerinisa, Clickbait Detection using Data Augmentation and DistilBERT, 2024
+10. Ahmad Fauzan, Easy Data Augmentation (EDA) for Human Values Classification on GitHub's Issue Discussions, 2024
+11. Algamma Paramayudha, Easy Data Augmentation (EDA) for Emotion Classification of Twitter Dataset, 2024
+12. Bonifacius Charis, Dempster-Shafer Theory for Space Objects Classification, 2024
+13. Satria Satyahestatma, Sentiment Analysis for Stack Overflow Dataset using Attention Bidirectional LSTM, 2024
+14. Ghani Faradha, Development of Data Warehouse for Twitter using Apache Hive, 2018
+15. Aziz Mustika Aji, Location Extraction from News, 2018
+16. Andimas Bagaswara, Analysis of Clustering for Java Source Code Comprehension, 2018
+17. Muhammad Naufal Abiyyu, Web Usage Mining for User Profiling in Job Portal Website, 2018
+18. Rubila Dwi Adawiyah, Analysis of Fuzzy C-Means Clustering and Proximity-Impact-Popularity on User-based Collaborative Filtering. 2018
+19. Kurniawan D. Septian, Comparison of MPI and Hadoop MapReduce in Raspberry Pi Cluster, 2018
+20. Gilang Mugiardi, Comparison of Feature Selection Methods in Naive Bayes Topic Classification of Indonesian News, 2017
+21. Lucgu Qolfiera Muhammad, Nude Image Detection using Rough Set Analysis Method, 2017
+22. Muhammad Qadri, Sentiment Classifications in Instagram’s Comments, 2017
+23. I Nyoman Prayana Trisna, Keyword Extraction in Single Document using Phrase Chunking, 2017
+24. Yuliawan Rizka Syafaat, Classification of Spam Comments and Spammer Analysis on Instagram, 2017
+25. Satrio Ghaffar, Location-Based Game with ORB Feature Detection, 2016
+26. Muhammad Hafidz Anshari, Popularity Tweet Analysis in Bahasa Indonesia using Exponential Comparison Method, 2016
+27. Muhammad Rafif Murazza, Relational and NoSQL Database Comparison for Near Real-time Twitter Data Warehouse, 2016
+28. Sabrina Woro Anggraini, Analysis of Diabetes Mellitus Type 2 Classification based on Ensemble Learning Weighted Voting, 2016
+29. Zamahsyari, Sentiment Analysis of Economic News in Bahasa Indonesia using Majority Vote Classifier, 2016
+30. Dimas Ananta, Sentiment Analysis of Entities in Twitter Indonesian Language using Support Vector Machine, 2016
+31. Muh. Reza Pahlevi, Pattern Analysis Sale of Goods using Apriori Algorithm on the Data Warehouse (Case Study: Kopegtel Purwokerto), 2016
+32. Yusuf Syaifuddin, Quotations Identification from Indonesian Online News using Rule-based Method, 2016
+33. Khafid Aulia Rahman, Correlation Analysis on the Data Warehouse Academic Domain at Universitas Gadjah Mada, 2015
+34. Fajri Wiryawan, Incremental Learning for Opinion Mining on Indonesian Language Tweets using Twitter Data Stream, 2014, (Co-Supervisor: Dr. Edi Winarko)
