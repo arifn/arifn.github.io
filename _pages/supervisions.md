@@ -25,16 +25,15 @@ nav_order: 7
 #### Master (ongoing)
 
 1. Yusuf Syaifudin (MCS), Retrieval Augmented Generation for Islamic Literatures Q&A
-2. Maulana Ihsan Ahmad (MCS), Addressing Imbalanced data for Arabic Dialect Classification (Co-supervisor: Dr. Aina Musdholifah)
-3. Ach. Nur Aqil Wahid (MAI)
-4. I Putu Yosua Yeriko (MCS)
-5. Sampurno Aji (MCS)
-6. Wiladahtul Awaliah (MCS)
-7. Bruri Wijayanto (MAI)
-8. Mohd Azima (MAI - Co-supervisor: Dr.techn. Guntur Budi Herwanto)
-9. Mozes Markus Sapari (MCS), Code-mixing Retrieval Augmented Generation (Co-supervisor: Dr.techn. Guntur Budi Herwanto)
-10. Aditya Wahyu Wijanarko (MAI - Co-supervisor: Dr. Sigit Priyanta)
-11. Andreas Anditya Purnama (MCS)
+2. Ach. Nur Aqil Wahid (MAI)
+3. I Putu Yosua Yeriko (MCS)
+4. Sampurno Aji (MCS)
+5. Wiladahtul Awaliah (MCS)
+6. Bruri Wijayanto (MAI)
+7. Mohd Azima (MAI - Co-supervisor: Dr.techn. Guntur Budi Herwanto)
+8. Mozes Markus Sapari (MCS), Code-mixing Retrieval Augmented Generation (Co-supervisor: Dr.techn. Guntur Budi Herwanto)
+9. Aditya Wahyu Wijanarko (MAI - Co-supervisor: Dr. Sigit Priyanta)
+10. Andreas Anditya Purnama (MCS)
 
 
 #### Master (graduated)
@@ -46,6 +45,7 @@ nav_order: 7
 5. Fathin Difa (MAI), TP-GAN for Face Frontalization via Adaptive Meta-Learner-Based Knowledge Distillation (Main Supervisor: Dr. Moh Edi Wibowo), 2025
 6. Marina Indah Prasasti (MCS), Stunting Identification using Deep Learning (Main Supervisor: Dr. Edi Winarko), 2025
 7. Arridho Ramadhan Firdaus (MCS), Sentiment Analysis of Product Reviews using Data Augmentation and Imbalance Handling, 2024
+8. Maulana Ihsan Ahmad (MCS), Addressing Imbalanced data for Arabic Dialect Classification (Co-supervisor: Dr. Aina Musdholifah), 2026
 
 
 #### Undergraduate (ongoing)
