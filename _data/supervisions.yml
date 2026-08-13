@@ -2,13 +2,13 @@
 - name: I Gede Mujiyatna
   level: Doctoral
   status: Ongoing
-  title: "Code Completion in Mobile IDE"
+  title: "Arsitektur Type-Aware Lightweight Autocomplete Untuk Prediksi Nama Identifier Pada Mobile Integrated Development Environment On-Device"
   notes: "Main Promotor: Dr. Nur Rokhman"
 
-- name: Said Abdurrohman Kunta Mardlian
+- name: Sa'id Abdurrohman Kunta Mardlian
   level: Doctoral
   status: Ongoing
-  title: "Cybersecurity Assessment Framework"
+  title: "Pemodelan Kerangka Kerja Tata Kelola Teknologi Informasi Berbasis COBIT 2019 Berdasarkan Karakteristik Organisasi Dengan Teknik Best Worst Method (BWM)"
   notes: "Main Promotor: Dr. Mardhani Riasetiawan"
 
 - name: Rizaldy Khair
@@ -20,7 +20,7 @@
 - name: Rokhmatul Insani
   level: Doctoral
   status: Ongoing
-  title: "Datawarehouse Design for Students' Job Recommendation"
+  title: "Kerangka Kerja Data-Centric Untuk Machine Learning Berkelanjutan: Rekomendasi Pekerjaan Berbasis Profil Multidimensi"
   notes: "Main Promotor: Dr. Mardhani Riasetiawan"
 
 - name: Hayuning Titi Karsanti
@@ -29,9 +29,10 @@
   title: "Human Oversight in Responsible AI Implementation"
   notes: "Main Promotor: Prof. Mhd. Reza Pulungan"
 
-- name: Ali Qureshi
+- name: Ali Adil Qureshi
   level: Doctoral
   status: Ongoing
+  title: "Latent Trust State Modeling of Disaster Response Applications Using Behavioral Signals from User Reviews"
   notes: "Main Promotor: Prof. Suprapto"
 
 - name: I Gede Bintang Arya Budaya
