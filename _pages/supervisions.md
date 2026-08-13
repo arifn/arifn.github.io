@@ -56,6 +56,11 @@ nav_order: 7
 4. Rama Andhika Pratama
 5. Rayhan Firdaus Ardian
 6. Fahmi Shampoerna
+7. Giganius Revo
+8. Muhammad Dzaky Ar-Rasyid
+9. Raditya Nathaniel Nugroho
+10. Ajie Armansyah Sunaryo
+11. Yohana Butar Butar
 
 #### Undergraduate (graduated)
 
