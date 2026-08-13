@@ -1,0 +1,79 @@
+---
+layout: page
+---
+
+{% assign supervisions = site.data.supervisions %}
+{% assign graduated_years = supervisions | where: "status", "Graduated" | map: "year" | uniq | sort | reverse %}
+
+<div class="supervisions-filter card mb-4">
+  <div class="card-body">
+    <div class="form-row align-items-end">
+      <div class="form-group col-md-3 col-sm-6 mb-2">
+        <label for="filter-level">Level</label>
+        <select id="filter-level" class="form-control form-control-sm">
+          <option value="">All</option>
+          <option value="Doctoral">Doctoral</option>
+          <option value="Master">Master</option>
+          <option value="Undergraduate">Undergraduate</option>
+        </select>
+      </div>
+      <div class="form-group col-md-3 col-sm-6 mb-2">
+        <label for="filter-status">Status</label>
+        <select id="filter-status" class="form-control form-control-sm">
+          <option value="">All</option>
+          <option value="Ongoing">Ongoing</option>
+          <option value="Graduated">Graduated</option>
+        </select>
+      </div>
+      <div class="form-group col-md-3 col-sm-6 mb-2">
+        <label for="filter-year">Year</label>
+        <select id="filter-year" class="form-control form-control-sm">
+          <option value="">All</option>
+          {% for year in graduated_years %}
+            <option value="{{ year }}">{{ year }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="form-group col-md-3 col-sm-6 mb-2">
+        <button id="filter-reset" class="btn btn-outline-secondary btn-sm btn-block">Reset Filter</button>
+      </div>
+    </div>
+    <div class="text-muted small mt-2 mb-0">
+      Showing <span id="supervision-count">{{ supervisions.size }}</span> of {{ supervisions.size }} entries
+    </div>
+  </div>
+</div>
+
+<div class="table-responsive">
+  <table class="table table-hover supervisions-table" id="supervisions-table">
+    <thead>
+      <tr>
+        <th scope="col" class="col-number">#</th>
+        <th scope="col">Name</th>
+        <th scope="col" class="col-level">Level</th>
+        <th scope="col" class="col-status">Status</th>
+        <th scope="col" class="col-year">Year</th>
+        <th scope="col">Title / Topic</th>
+        <th scope="col">Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for s in supervisions %}
+        <tr data-level="{{ s.level }}" data-status="{{ s.status }}" data-year="{{ s.year | default: '' }}">
+          <td class="row-number">{{ forloop.index }}</td>
+          <td>
+            {{ s.name }}
+            {% if s.degree %}<span class="badge badge-light text-muted ml-1">{{ s.degree }}</span>{% endif %}
+          </td>
+          <td><span class="badge badge-level badge-{{ s.level | downcase }}">{{ s.level }}</span></td>
+          <td><span class="badge badge-status badge-{{ s.status | downcase }}">{{ s.status }}</span></td>
+          <td>{% if s.year %}{{ s.year }}{% else %}—{% endif %}</td>
+          <td>{{ s.title | default: '' }}</td>
+          <td>{{ s.notes | default: '' }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<script src="{{ '/assets/js/supervisions-filter.js' | relative_url }}" defer></script>
