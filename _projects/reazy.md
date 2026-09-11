@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Read Eazy (Reazy)
-description: An Android app providing educational support for students with dyslexia.
+description: A mobile app providing educational support for students with dyslexia.
 img: assets/img/showcases/reazy-1.webp
 importance: 1
 category: Technology for social good
-status: <a href="https://play.google.com/store/apps/details?id=org.readeazy.ugmqub" target="_blank">Available on the Google Play Store</a>
+status: <a href="https://play.google.com/store/apps/details?id=org.readeazy.ugmqub" target="_blank">Available on the Google Play Store</a> and <a href="https://apps.apple.com/id/app/reazy/id6752534892?l=id" target="_blank">Apple App Store</a>
 ---
 
 <p><a href="{{ '/showcases/' | relative_url }}">&larr; Back to Portfolio</a></p>
@@ -58,4 +58,5 @@ at home.
 ## Status
 
 The app is published on the Google Play Store as
-[`org.readeazy.ugmqub`](https://play.google.com/store/apps/details?id=org.readeazy.ugmqub).
+[`org.readeazy.ugmqub`](https://play.google.com/store/apps/details?id=org.readeazy.ugmqub)
+and on the [Apple App Store as Reazy](https://apps.apple.com/id/app/reazy/id6752534892?l=id).
