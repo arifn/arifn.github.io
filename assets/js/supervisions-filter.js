@@ -11,7 +11,7 @@ $(document).ready(function () {
   function applyFilters() {
     var level = $levelFilter.val();
     var status = $statusFilter.val();
-    var program = $programFilter.val();
+    var program = String($programFilter.val() || '').trim();
     var year = $yearFilter.val();
 
     var visibleCount = 0;
@@ -20,7 +20,7 @@ $(document).ready(function () {
       var $row = $(this);
       var rowLevel = $row.data('level');
       var rowStatus = $row.data('status');
-      var rowProgram = $row.data('program');
+      var rowProgram = String($row.attr('data-program') || '').trim();
       var rowYear = String($row.data('year'));
 
       var levelMatch = !level || rowLevel === level;
@@ -79,4 +79,5 @@ $(document).ready(function () {
 
   // Initialize
   updateYearFilterState();
+  applyFilters();
 });

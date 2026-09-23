@@ -31,7 +31,7 @@ layout: page
         <select id="filter-program" class="form-control form-control-sm">
           <option value="">All</option>
           {% for program in programs %}
-            <option value="{{ program }}">{{ program }}</option>
+            <option value="{{ program | escape }}">{{ program }}</option>
           {% endfor %}
         </select>
       </div>
@@ -69,7 +69,7 @@ layout: page
     </thead>
     <tbody>
       {% for s in supervisions %}
-        <tr data-level="{{ s.level }}" data-status="{{ s.status }}" data-program="{{ s.degree | default: '' }}" data-year="{{ s.year | default: '' }}">
+        <tr data-level="{{ s.level }}" data-status="{{ s.status }}" data-program="{{ s.degree | default: '' | escape }}" data-year="{{ s.year | default: '' }}">
           <td class="row-number">{{ forloop.index }}</td>
           <td>
             {{ s.name }}
