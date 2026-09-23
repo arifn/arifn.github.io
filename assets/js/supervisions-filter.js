@@ -3,6 +3,7 @@ $(document).ready(function () {
   var $rows = $table.find('tbody tr');
   var $levelFilter = $('#filter-level');
   var $statusFilter = $('#filter-status');
+  var $programFilter = $('#filter-program');
   var $yearFilter = $('#filter-year');
   var $resetBtn = $('#filter-reset');
   var $countDisplay = $('#supervision-count');
@@ -10,6 +11,7 @@ $(document).ready(function () {
   function applyFilters() {
     var level = $levelFilter.val();
     var status = $statusFilter.val();
+    var program = $programFilter.val();
     var year = $yearFilter.val();
 
     var visibleCount = 0;
@@ -18,13 +20,15 @@ $(document).ready(function () {
       var $row = $(this);
       var rowLevel = $row.data('level');
       var rowStatus = $row.data('status');
+      var rowProgram = $row.data('program');
       var rowYear = String($row.data('year'));
 
       var levelMatch = !level || rowLevel === level;
       var statusMatch = !status || rowStatus === status;
+      var programMatch = !program || rowProgram === program;
       var yearMatch = !year || rowYear === year;
 
-      if (levelMatch && statusMatch && yearMatch) {
+      if (levelMatch && statusMatch && programMatch && yearMatch) {
         $row.show();
         visibleCount++;
       } else {
@@ -59,11 +63,13 @@ $(document).ready(function () {
   function resetFilters() {
     $levelFilter.val('');
     $statusFilter.val('');
+    $programFilter.val('');
     $yearFilter.val('').prop('disabled', false);
     applyFilters();
   }
 
   $levelFilter.on('change', applyFilters);
+  $programFilter.on('change', applyFilters);
   $statusFilter.on('change', function () {
     updateYearFilterState();
     applyFilters();
